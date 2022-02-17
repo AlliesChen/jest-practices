@@ -1,0 +1,17 @@
+{
+  "name": "jestpractices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gettingStarted.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.4",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
